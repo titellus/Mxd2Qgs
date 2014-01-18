@@ -4,8 +4,8 @@ and also create a thumbnail of the MXD.
 
 # Requirements
 
-Tested on ArcMap 10, Python 2.7 and Quantum GIS 2.0.1
-Libraries: Arcpy, xml.dom.minidom, xml.dom.ext
+* Tested on ArcMap 10, Python 2.7 and Quantum GIS 2.0.1
+* Libraries: Arcpy, xml.dom.minidom, xml.dom.ext
 
 
 # Supported (and tested) formats
