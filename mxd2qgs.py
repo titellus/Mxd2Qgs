@@ -1,5 +1,5 @@
 #-----------------------------------------------------------
-#
+# coding: utf-8
 # Mxd2Qgs ver 1.0
 # Copyright (C) 2011 Allan Maungu 
 # EMAIL: lumtegis (at) gmail.com
